@@ -11,7 +11,7 @@ Simply Cyan is a [Jekyll](https://github.com/jekyll/jekyll) theme dedicated to t
 
 The design of Simply Cyan is sober and elegant, yet pop with its bright colorful oblique stripes punctuating the screen.
 
-Symply Cyan can feature a multitude of authors and offers a page to display all of their profiles, as well as an archives page to display all the site's posts.
+Symply Cyan can feature a multitude of authors and/or categories and it offers a page to display their description, as well as an archives page to display all the site's posts.
 
 ## Features
 
@@ -22,13 +22,13 @@ Symply Cyan can feature a multitude of authors and offers a page to display all 
 - The size of the fonts can be enlarged by the visitors
 - A toggle allows the visitors to switch between serif and sans-serif fonts to help with people experiencing dyslexia
 - Configurable colors and fonts in a setting file with detailed description
-- A single page regrouping all the authors of the site and a page by author displaying a description and all the posts written by them
+- A single page regrouping all the categories of the site and a page by category displaying a description and all the posts concerned by them
 - Documentation
 
 
 ## How to start and use Simply Cyan
 
-Visit the readme.md file [on the theme's repo]() to know more about how to get started with a Jekyll theme and how to customize Simply Cyan.
+Visit the readme.md file [on the theme's repo](https://github.com/PQuod/simply-cyan-theme) to know more about how to get started with a Jekyll theme and how to customize Simply Cyan.
 
 ## Contact
 
