@@ -14,12 +14,12 @@ layout: page
             {% if author == page.title %}             
                 <tr>
                     <td>
-                        <a href="{{ post.url | relative_url}}">
-                            <h2 class="list_post_title"><span class="a-nude">{{ post.title | truncate: 30 | escape }}</span></h2>
+                        <a href="{{ post.url | relative_url}}" >
+                            <p><span class="a-nude">{{ post.title | truncate: 30 | escape }}</span></p>
                         </a>
                     </td>
                     <td class="archives-date">
-                        <h2 class="list_post_title">&#10040; {{ post.date | date: "%d/%m/%Y" | escape }}</h2>
+                        <p class="list_post_title">&#10040; {{ post.date | date: "%d/%m/%Y" | escape }}</p>
                     </td>
              </tr>
             {% endif %}
